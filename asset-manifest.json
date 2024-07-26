@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/blog-react/static/css/main.ea31af7e.css",
-    "main.js": "/blog-react/static/js/main.371e42a6.js",
+    "main.js": "/blog-react/static/js/main.e263508b.js",
     "static/js/453.b6cec7e2.chunk.js": "/blog-react/static/js/453.b6cec7e2.chunk.js",
     "static/media/Computer-Network-Components.jpeg": "/blog-react/static/media/Computer-Network-Components.96778a72bffb6366aa66.jpeg",
     "static/media/1_KpDOKMFAgDWaGTQHL0r70g.png": "/blog-react/static/media/1_KpDOKMFAgDWaGTQHL0r70g.8e85ef9e363c391529ca.png",
     "static/media/algorithm.png": "/blog-react/static/media/algorithm.50760cca46727d41846f.png",
     "index.html": "/blog-react/index.html",
     "main.ea31af7e.css.map": "/blog-react/static/css/main.ea31af7e.css.map",
-    "main.371e42a6.js.map": "/blog-react/static/js/main.371e42a6.js.map",
+    "main.e263508b.js.map": "/blog-react/static/js/main.e263508b.js.map",
     "453.b6cec7e2.chunk.js.map": "/blog-react/static/js/453.b6cec7e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea31af7e.css",
-    "static/js/main.371e42a6.js"
+    "static/js/main.e263508b.js"
   ]
 }
