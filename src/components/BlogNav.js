@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './BlogNav.css';  // Import the CSS file for the BlogNav component
+import './BlogNav.css';  
 import logo from '/home/uki-jaffna/Documents/blog2/src/components/images (2).jpeg';
 
 function BlogNav() {

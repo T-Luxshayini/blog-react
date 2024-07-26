@@ -1,5 +1,5 @@
 import React from 'react';
-import './posts.css';  // Import the CSS file for the post component
+import './posts.css';  
 import image1 from '/home/uki-jaffna/Documents/blog2/src/components/download.png';
 function Post1() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import './posts.css';  // Import the CSS file for the post component
+import './posts.css';  
 import image3 from '/home/uki-jaffna/Documents/blog2/src/components/algorithm.png';
 
 function Post3() {
